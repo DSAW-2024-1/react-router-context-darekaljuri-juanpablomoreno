@@ -1,5 +1,7 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/yGCr2kOI)
 # Desarrollo de Aplicaciones Web
-## NOMBRE_DE_LOS_ESTUDIANTES
+## NOMBRE_DE_LOS_ESTUDIANTES Juan Pablo Moreno / Darek Aljuri Martinez
+## LINK DEK PROYECTO DESPLEGADO: https://reactrouterfork.vercel.app/
 ### Universidad de La Sabana
 #### 2024 - I
 
@@ -49,4 +51,3 @@ Crear un router seguro utilizando React.js, React Context y localStorage. Permit
 - Si el repositorio no se marca, se obtendrá una calificación de 0.
 
 **¡Buena suerte!**
-
